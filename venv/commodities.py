@@ -32,7 +32,7 @@ bbg = BBG()
 end_date= '29-jun-2019'
 before = -1
 
-list_ticker = ["LX", "LN","LA","LT","LL"]
+list_ticker = ["LX","LL","LN","LA","LT"]
 info_tickers = {}
 
 for tck in list_ticker:
